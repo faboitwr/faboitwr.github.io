@@ -2,12 +2,7 @@ body {
   background: #ebebe7;
 }
 
-h1 {
-  font-family: 'Trebuchet MS', sans-serif;
-  color: #b6282d;
-}
-
-h2 {
+h1, h2 {
   font-family: 'Trebuchet MS', sans-serif;
   color: #b6282d;
 }
