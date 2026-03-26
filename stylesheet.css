@@ -7,12 +7,21 @@ h1, h2 {
   color: #b6282d;
 }
 
-p, a, th, td {
+p, a {
   font-family: 'Trebuchet MS', sans-serif;
   color: #3c3c3c;
   padding-right: 25px;
-  padding-left: 25px;
 }
+
+th, td {
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #3c3c3c;
+  padding: 20px;
+}
+
+table {
+  border: 1px solid;
+  border-collapse: collapse;
 
 .center {
   margin-left: auto;
