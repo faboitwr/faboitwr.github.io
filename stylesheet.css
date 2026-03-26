@@ -13,5 +13,6 @@ p, a {
 }
 
 .center {
+  text-align: center;
   justify-content: center;
 }
