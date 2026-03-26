@@ -16,3 +16,7 @@ p, a {
   font-family: 'Trebuchet MS', sans-serif;
   color: #3c3c3c;
 }
+
+.center {
+  justify-content: center;
+}
