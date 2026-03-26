@@ -7,7 +7,7 @@ h1, h2 {
   color: #b6282d;
 }
 
-p, a {
+p, a, th, td {
   font-family: 'Trebuchet MS', sans-serif;
   color: #3c3c3c;
   padding-right: 25px;
