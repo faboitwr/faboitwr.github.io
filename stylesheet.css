@@ -23,6 +23,9 @@ th, td {
 table {
   border: 1px solid;
   border-collapse: collapse;
+} 
+
+table.center {
   left-margin: auto;
   right-margin: auto;
 }
