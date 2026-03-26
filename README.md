@@ -1,2 +1,3 @@
 # faboitwr.github.io
-# Welcome to my GitHub page. This will effectively act as a self-introduction and an area to park my resume/history. Cheers!
+
+Welcome to my GitHub page's repository. This page (faboitwr.github.io) will act as a self-introduction and an area to park my resume/history. Cheers!
