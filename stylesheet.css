@@ -12,7 +12,7 @@ h2 {
   color: "#b6282d";
 }
 
-p {
+p, a {
   font-family: 'Trebuchet MS', sans-serif;
   color: "#3c3c3c";
 }
