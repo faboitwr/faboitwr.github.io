@@ -5,11 +5,13 @@ body {
 h1, h2 {
   font-family: 'Trebuchet MS', sans-serif;
   color: #b6282d;
+  text-align: center;
 }
 
 p, a, li {
   font-family: 'Trebuchet MS', sans-serif;
   color: #3c3c3c;
+  text-align: center;
 }
 
 th, td {
