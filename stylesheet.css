@@ -10,7 +10,8 @@ h1, h2 {
 p, a {
   font-family: 'Trebuchet MS', sans-serif;
   color: #3c3c3c;
-  padding-right: 25px;
+  padding-right: 75px;
+  padding-left: 75px
 }
 
 th, td {
