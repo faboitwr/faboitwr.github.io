@@ -41,7 +41,7 @@ div.container {
   text-align: center;
 }
 
-ol.myOL {
-  display: inline-block;
-  text-align: left;
+img.Logo {
+  width: 25px;
+  length: 25px;
 }
