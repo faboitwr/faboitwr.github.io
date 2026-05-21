@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*fonts/texts*/
+h1 {
+  font-size: 85px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p, h1, h2, h3 {
+  font-family: Raleway;
+  color: #374075;
+  text-align: center;
+  line-height: 1;
+}
+
+p.para {
+  line-height: 2;
+}
+
+p.pitem {
+  line-height: 0.5;
+}
+
+.item {
+  display: inline-block;
+  padding: 0.25%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #aaadbf;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.item:hover {
+  translate: 0px 2px;
+  transition-duration: 0.1s;
+}
+
+/*interactables*/
+a {
+  text-decoration: none;
+}
+
+.button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+
+.button:hover {
+  scale: 105%;
+}
+
+
+/*content*/
+.divbut {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.group {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /**/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*sizing*/
+  width: 85vh;
+  height: 65vh;
+  /*border style*/
+  border-style: solid;
+  border-width: 3px;
+  border-color: #aaadbf;
+  border-radius: 10px;
+  /**/
+  box-shadow: 100px;
+}
+
+.content {
+  text-align: center;
+}
+
+/*foot*/
+.footer {
+  position: fixed;
+  text-align: center;
+  left: 50%;
+  transform: translate(-50%);
+  bottom: 0;
+}
